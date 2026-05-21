@@ -1,5 +1,4 @@
 # devopsgpt
-Sujet : Lancement du projet "DevOpsGPT" Durée : 3h00
 
 Sujet : Lancement du projet "DevOpsGPT" Durée : 3h00 | Documents et internet autorisés | Travail individuel
 
